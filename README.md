@@ -1,1 +1,1 @@
-# Documenter
+# Documentor
